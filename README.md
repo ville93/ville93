@@ -1,5 +1,3 @@
-<h1 align="left">Software Developer</h1>
-
 ###
 
 <h2 align="left">About me</h2>
