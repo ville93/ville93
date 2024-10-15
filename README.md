@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello, my name is Ville and I'm a Software Developer from Helsinki, Finland. In my current job, my main responsibility is to develop a desktop application using C# and .NET. Previously, I worked as a Software Tester and pharmacist, giving me a strong background in health tech. My passion lies in problem-solving, learning new things, and building clean code.<br><br>I am currently learning to develop web-based applications, which I would like to work with in the future. I am completely open to working with new technologies or programming languages.</p>
+<p align="left">Hello, my name is Ville and I'm a Software Developer from Helsinki, Finland.</p>
 
 ###
 
